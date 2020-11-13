@@ -46,15 +46,13 @@
 3,调用了微信OCR识别API:https://developers.weixin.qq.com/community/servicemarket/detail/000ce4cec24ca026d37900ed551415
 
 项目效果
------
+----- 
 
-![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204848.png)
-![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204859.png)
-![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204910.png)
+![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204910.png )
 ![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204917.png)
 ![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204924.png)
 ![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204930.png)
-![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204942.png)
+<img src="https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204848.png" width="200" height="200" /><br/>
 
 开源许可证
 ------

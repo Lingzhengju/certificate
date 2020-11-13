@@ -47,5 +47,10 @@
 
 项目效果
 -------
+![image](https://github.com/Lingzhengju/certificate/blob/test2/image/%E9%A9%BE%E9%A9%B6%E8%AF%81.png)
+
+开源许可证
+------
+本项目使用GPL v3.license开源许可证，满足开源规范。
 
 

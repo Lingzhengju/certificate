@@ -14,7 +14,7 @@
 ```
 本项目的开发技术包括HTML5、JavaScript、Node.js、MongoDB等，可以通过腾讯云进行部署，
 能够通过Web和JS接口调用腾讯开放平台的API，
-包括腾讯AI开放平台、腾讯地图开放平台、微信开放平台等。
+包括腾讯AI开放平台、腾讯地图开放平台、微信开放平台。
 本项目基于腾讯云平台和云南大学智慧教学APP平台，性能可靠，平台稳定性经过长期运行验证。
 能够通过腾讯云部署，与腾讯云无缝对接，基于腾讯云部署的成本优势明显，
 可以根据访问流量灵活购买腾讯AI开放平台流量套餐，能够精准有效控制开发和运营成本，降低项目风险。
@@ -45,12 +45,5 @@
 2、使用其他考试官网的网址，来进行信息的收集和处理。
 3,调用了微信OCR识别API:https://developers.weixin.qq.com/community/servicemarket/detail/000ce4cec24ca026d37900ed551415
 
-项目效果
--------
-![image](https://github.com/Lingzhengju/certificate/blob/test2/image/%E9%A9%BE%E9%A9%B6%E8%AF%81.png)
-
-开源许可证
-------
-本项目使用GPL v3.license开源许可证，满足开源规范。
 
 

@@ -47,7 +47,7 @@
 
 项目效果
 -----
-```
+
 ![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204848.png)
 ![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204859.png)
 ![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204910.png)
@@ -55,7 +55,7 @@
 ![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204924.png)
 ![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204930.png)
 ![image](https://github.com/Lingzhengju/certificate/blob/test2/QQ%E5%9B%BE%E7%89%8720201113204942.png)
-```
+
 开源许可证
 ------
 本项目使用GPL v3.license开源许可证，满足开源规范。
